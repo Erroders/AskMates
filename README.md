@@ -10,6 +10,8 @@ This application is aimed to provide a platform forcollege students to ask quest
 - Ability to vote answers
 - Searching Functionality
 
+> **The Express Server Code (Backend) can be found on this [link](https://github.com/Erroders/AskMatesServer).**
+
 ## Tech Stack
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
